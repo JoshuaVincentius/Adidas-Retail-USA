@@ -23,9 +23,3 @@ This file contains data on Adidas products available for purchase in the United 
 - reviews_count: The number of customer reviews for the product
 - crawled_at: The date and time when the data was collected
 
-How to use this script?
-
-1. First, download Python
-2. After that, download this repo as zip or using git clone https://github.com/JoshuaVincentius/Adidas-Retail-USA.git on git cli
-3. Extract the folder and navigate to the extracted folder
-4. Run the code in the notebook file
